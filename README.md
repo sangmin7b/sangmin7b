@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**sangmin7b/sangmin7b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills and Technologies
+- **Programming Languages**: C++, Python, TypeScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [wafflestudio/snuboard-server](https://github.com/wafflestudio/snuboard-server)
+Server of SNUBoard Project
+- **Languages**: TypeScript
+
+
+### [wafflestudio/snuboard-crawler](https://github.com/wafflestudio/snuboard-crawler)
+Crawler for SNUBoard project
+- **Languages**: TypeScript
+
+### [kwon-the-factory](https://github.com/kwon-the-factory)
+[link](http://www.kwonthefactory.com)
+ 
