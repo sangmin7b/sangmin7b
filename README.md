@@ -21,7 +21,7 @@ Crawler for SNUBoard project
 
 
 ### kwon the factory (2020)
-#### [kwon-the-factory](https://github.com/kwon-the-factory)
+#### [kwon-the-factory](https://github.com/sangmin7b/kwon-the-factory)
 [link](http://www.kwonthefactory.com)
 
 
